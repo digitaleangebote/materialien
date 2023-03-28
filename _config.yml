@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            unser gitbuch
+longtitle:        unser digitale angebote gitbuch
 author:           HE Tao
-email:            sighingnow@gmail.com
+email:            chantal.pannacci@uni-bielefeld.de
 description: >
-  Build Jekyll site with the GitBook style.
+  unser gitbuch für die digitalen angebote
 
-version:          1.0
-gitbook_version:  3.2.3
+version:          0.1
+gitbook_version:  
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://digitaleangebote.github.io/'
+baseurl:          '/eineartgitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
