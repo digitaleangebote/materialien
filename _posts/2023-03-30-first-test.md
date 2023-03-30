@@ -7,3 +7,5 @@ layout: post
 ---
 
 Mein erster Text!
+
+Ja, das ist doch schon ziemlich cool
