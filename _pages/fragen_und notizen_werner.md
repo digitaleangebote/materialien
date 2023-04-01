@@ -7,3 +7,7 @@ hast du zufällig schon gesehen, wo steht, dass es mit der readme datei anfängt
 und herausgefunden, wie wir das inhaltsverzeichnis unseres buches auf der linken seite ordnen können?
 
 glaubst du auch, dass wir in diesem format die inhalte für die digitalen angebote festhalten könnten?
+
+und warum erscheint diese page nicht auf unserer github.io seite?
+
+

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: testtitel für das readme unseres gibuchs
+title: testtitel für das readme unseres gitbuchs
 permalink: /
 ---
 
