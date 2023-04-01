@@ -1,52 +1,36 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: testtitel für das readme unseres gibuchs
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+Damit unsere Seite wie ein Gitbuch aussieht
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+ein beispiel eines links: [https://google.com](https://google.com)
+
+hier ein bild und vielleicht ein link
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
 ## Why Jekyll with GitBook
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
-
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+lalalalala
 
 ## How to Get Started
 
-This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
-see [the official guide][13] as well.
+lalalala
 
-You can introduce this jekyll theme into your own site by either
-
-- [Fork][3] this repository and add your markdown posts to the `_posts` folder.
-- Use as a remote theme in your [`_config.yml`][14](just like what we do for this
-  site itself),
-
-```yaml
-remote_theme: sighingnow/jekyll-gitbook
-```
 
 ### Deploy Locally with Jekyll Serve
 
-This theme can be ran locally using Ruby and Gemfiles.
+ist jetzt nicht soooo wichtig
 
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
 
 ## Full-text search
+
+die ist auf jeden fall spannend
 
 The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
 
@@ -78,6 +62,8 @@ toc:
 
 ## Google Analytics, etc.
 
+möchten wir bestimmt nicht
+
 The jekyll-gitboook theme supports embedding the [Google Analytics][7], [CNZZ][8] and [Application Insights][9] website analytical tools with the following
 minimal configuration in `_config.yaml`:
 
@@ -102,6 +88,8 @@ tracker:
 
 ## Disqus comments
 
+brauche wir auch nicht wirklich
+
 [Disqus](https://disqus.com/) comments can be enabled by adding the following configuration in `_config.yaml`:
 
 ```yaml
@@ -110,6 +98,8 @@ disqushandler: "<YOUR DISQUS SHORTNAME>"
 
 ## Extra StyleSheet or Javascript elements
 
+falls jemand dinge schöner machen möchte
+
 You can add extra CSS or JavaScript references using configuration collections:
 
 - extra_css: for additional style sheets. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
@@ -117,6 +107,8 @@ You can add extra CSS or JavaScript references using configuration collections:
 - extra_footer_js: for additional scripts to be included at the end of the HTML document, just before the site tracking script. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
 
 ## Customizing font settings
+
+und möchte, dass wir schönere schriften benutzen
 
 The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
 
@@ -130,6 +122,8 @@ The fonts can be customized by modifying the `.book.font-family-0` and `.book.fo
 ```
 
 ## Tips, Warnings and Dangers blocks
+
+was kramdown attribute sind können wir ja noch googeln
 
 The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
 `{: .block-danger }`) like that displayed in [the discord.js website][11]. The marker can be used like
@@ -147,6 +141,8 @@ Rendered page can be previewed from
 [https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html)
 
 ## Cover image inside pages
+
+das können wir im laufe der zeit ja mal ausprobieren
 
 The jekyll-gitbook theme supports adding a cover image to a specific page by adding
 a `cover` field to the page metadata:
@@ -167,6 +163,8 @@ The effect can be previewed from
 [https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
 
 ## License
+
+auch die können wir uns mal ansehn
 
 This work is open sourced under the Apache License, Version 2.0.
 
