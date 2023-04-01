@@ -1,3 +1,10 @@
+---
+title: fragen und notizen an werner
+author: chantal
+date: 2023-04-01
+category: Jekyll
+layout: post
+---
 Hast du deine Veränderungen erst in deinem Wernerast gemacht und dann zusammengefügt?
 
 ich habe nach dem inhalt der ersten seite gesucht. nach dem ich die readme datei geändert hatte, stellte sich heraus, dass der text der ersten seite aus der readme datei kommt.
