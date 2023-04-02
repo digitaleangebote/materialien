@@ -6,11 +6,15 @@ category: Jekyll
 layout: home
 ---
 
-#### Punkt 1
+## Punkt 1
 Text
-#### Punkt 2
+### Unterpunkt 1
 Text
-#### Punkt 3
+### Unterpunkt 2
 Text
-#### Punkt 4
+## Punkt 1
+Text
+### Unterpunkt 1
+Text
+### Unterpunkt 2
 Text
