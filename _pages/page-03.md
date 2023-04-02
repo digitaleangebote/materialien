@@ -7,6 +7,11 @@ layout: home
 permalink: /doc
 ---
 
-### Seite 3
-Text 3
-Link /doc
+#### Punkt 1
+Text
+#### Punkt 2
+Text
+#### Punkt 3
+Text
+#### Punkt 4
+Text

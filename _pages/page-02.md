@@ -6,5 +6,11 @@ category: Jekyll
 layout: home
 ---
 
-### Seite 2
-Text 2
+#### Punkt 1
+Text
+#### Punkt 2
+Text
+#### Punkt 3
+Text
+#### Punkt 4
+Text
