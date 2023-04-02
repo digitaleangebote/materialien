@@ -4,6 +4,7 @@ author: werner
 date: 2023-04-01
 category: Jekyll
 layout: home
+permalink: /ddd
 ---
 
 #### Punkt 1
