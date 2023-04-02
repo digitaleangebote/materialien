@@ -1,7 +1,7 @@
 ---
 layout: home
 title: testtitel für das readme unseres gitbuchs
-permalink: /dd
+permalink: /
 ---
 
 Damit unsere Seite wie ein Gitbuch aussieht
