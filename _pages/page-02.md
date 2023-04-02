@@ -12,7 +12,7 @@ Text
 Text
 ### Unterpunkt 2
 Text
-## Punkt 1
+## Punkt 2
 Text
 ### Unterpunkt 1
 Text
