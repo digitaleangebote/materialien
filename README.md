@@ -4,4 +4,4 @@ title: readme unseres gitbuchs
 permalink: /
 ---
 
-Damit unsere Seite wie ein Gitbuch aussieht
+Herzlich willkommen bei der selbstorganisierten Arbeitsgemeinschaft zu den digitalen Angeboten der Uni Bielefeld

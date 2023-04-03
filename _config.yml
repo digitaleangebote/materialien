@@ -1,11 +1,10 @@
 # Configurations
-title:            unser gitbuch
-longtitle:        unser digitale angebote gitbuch
-author:           HE Tao
+title:            Die Materialien für die AG Digitale Angebote
+longtitle:        Materialien
+author:           die coaches der AG
 email:            chantal.pannacci@uni-bielefeld.de
 description: >
-  unser gitbuch für die digitalen angebote
-
+  hier findet ihr die von uns zusammengestellten materialien zu den digitalen angeboten
 version:          0.1
 gitbook_version:  
 
