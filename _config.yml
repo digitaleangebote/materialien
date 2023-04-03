@@ -10,7 +10,7 @@ version:          0.1
 gitbook_version:  
 
 url:              'https://digitaleangebote.github.io/'
-baseurl:          '/eineartgitbook'
+baseurl:          '/materialien'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
