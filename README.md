@@ -1,6 +1,6 @@
 ---
 layout: home
-title: readme unseres gitbuchs
+title: Die Materialien für die Digitale Angebote AG
 permalink: /
 ---
 
