@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Die Materialien für die Digitale Angebote AG
+title: Die Materialien für die AG zu den digitalen Angeboten
 permalink: /
 ---
 
