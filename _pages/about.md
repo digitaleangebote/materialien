@@ -1,10 +1,9 @@
 ---
-title: über uns
+title: Über uns
 author: chantal
-date: 2023-04-05
+date: 2023-03-29
 category: Jekyll
 layout: post
 ---
-#### wer sind wir?
 
-wir sind einige teilnehmer der appsag, die immer wieder neue digitale angebote der uni entdeckt haben und sich jetzt freuen, sich diese mit anderen menschen bei studieren ab 50 näher anzusehen und auszuprobieren
+Wir sind die Gruppe bei Studieren ab 50 der Uni Bielefeld, die sich besonders mit den digitalen Angeboten der Uni beschäftigt und alle interessierten Teilnehmer:innen gerne unterstützen möchte
