@@ -1,5 +1,5 @@
 ---
-title: wie geht das hier?
+title: wie geht das hier
 author: chantal
 date: 2023-04-05
 category: Jekyll
