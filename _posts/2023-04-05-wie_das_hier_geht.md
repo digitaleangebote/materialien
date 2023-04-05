@@ -5,7 +5,7 @@ date: 2023-04-05
 category: Jekyll
 layout: post
 ---
-#### wie geht das hier?
+#### umgang mit dieser seite
 wenn du oben links auf die 3 striche (hamburger) klickst, dann kannst du das inhaltsverzeichnis dieses buches wegschieben oder wieder holen.
 
 danach kannst du das browserfenster so schmal wie möglich machen, in dem du unten rechts die ecke anklickst und nach links ziehst
