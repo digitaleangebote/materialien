@@ -1,3 +1,10 @@
+---
+title: wie geht das hier?
+author: chantal
+date: 2023-04-05
+category: Jekyll
+layout: post
+---
 #### wie geht das hier?
 wenn du oben links auf die 3 striche (hamburger) klickst, dann kannst du das inhaltsverzeichnis dieses buches wegschieben oder wieder holen.
 
