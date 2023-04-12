@@ -14,9 +14,10 @@ danach kannst du das browserfenster so schmal wie möglich machen, in dem du unt
 
 jetzt kannst du ein neues browserfenster aufmachen.
 
-hierzu gibt es mehrere wege:
-mit der maus (krishna- und chantal style bis neulich) unter dem menüpunkt datei neues fenster auswählen
-mit dem tastaturkürzel ⌘N (⌘n)
+hierzu gibt es mehrere wege:  
+mit der maus (krishna- und chantal style bis neulich) unter dem menüpunkt  
+datei neues fenster auswählen  
+mit dem tastaturkürzel ⌘N (⌘n)   
 oder unter dem firefox hamburger neues fenster auswählen
 
 
