@@ -1,14 +1,14 @@
 ---
 title: passwörter
 author: chantal
-date: 2023-04-12
+date: 2023-04-13
 category: Jekyll
 layout: post
 ---
 # gute passwörter erstellen
 
-eine methode gute passwörter, die man sich auch merken kann, zu erstellen, ist, sich einen etwas längeren satz auszudenken.
-zb.
+eine methode gute passwörter, die man sich auch merken kann, zu erstellen, ist, sich einen etwas längeren satz auszudenken.  
+zb.  
 In der Digitale Angebote AG versuchen wir, möglichst viel zu lernen
 
 IdDAAGvw,mvzl
@@ -35,9 +35,9 @@ Ih@Sose2023@Sab50a
 
 wenn wir uns ein passwort, das mit unserem unileben zu tun hat, für die uni erstellen und es jedes mal, wenn wir uns auf der uniseite einloggen, aufsagen, dann wird es sich ganz sicher festsetzen
 
-als hinweise könnten wir uns in unser heft
-digitale angebote ag oder
-mein unianfang
+als hinweise könnten wir uns in unser heft  
+digitale angebote ag oder  
+mein unianfang  
 aufschreiben
 
 wenn du deinen lieblingssatz aus faust benutzt hast, dann kannst du auch 
@@ -96,25 +96,27 @@ hier [die erklärungsseite][1]
 
 ## macosx
 
-in den dienstprogrammen findest du das programm schlüsselbundverwaltung
-hier kannst du dir die dort gespeicherten passwörter ansehen
-erst siehst du nur eine liste der dienste deren passwort gespeichert ist
-um dir ein passwort anzeigen zu lassen, musst du auf den dienst klicken.
-in einem neuen fenster erhälst du dann mehr infos zu dem dienst
-ganz unten bietet dir das programm an, dein passwort einzublenden
-hier solltest du dein schlüsselbundpasswort jetzt eingeben, aber dem programm nur erlauben, dieses passwort jetzt anzuzeigen. auf keinen fall auf immer erlauben klicken
+in den dienstprogrammen findest du das programm schlüsselbundverwaltung.  
+hier kannst du dir die dort gespeicherten passwörter ansehen.  
+erst siehst du nur eine liste der dienste, deren passwort gespeichert ist.  
+um dir ein passwort anzeigen zu lassen, musst du auf den dienst klicken.  
+in einem neuen fenster erhältst du dann mehr infos zu dem dienst.  
+ganz unten bietet dir das programm an, dein passwort einzublenden.  
+hier solltest du dein schlüsselbundpasswort jetzt eingeben, aber dem programm nur erlauben, dieses passwort jetzt anzuzeigen.  
+auf keinen fall auf immer erlauben klicken.  
 
 den icloud schlüsselbund aktivierst du in den einstellungen ganz oben unter deinem account und icloud
 
 ## windows
 
-bei windows heißt das programm schlüsselverwaltungsdienst
-leider kann ich im moment dazu nicht mehr schreiben. aber vielleicht können wir unser lernmaterial gemeinsam ergänzen
+bei windows heißt das programm schlüsselverwaltungsdienst.  
+leider kann ich im moment dazu nicht mehr schreiben, aber vielleicht können wir unser lernmaterial gemeinsam ergänzen.
 
 ## ios
 
-der schlüsselbund auf den ios geräten ist der icloud schlüsselbund
-um den icloud schlüsselbund zu aktivieren, geh in die einstellungen und ganz oben auf deinen account. öffne hier den punkt icloud und scrolle nach unten bis zu dem punkt passwörter & schlüsselbund. hier kannst du dann den schlüsselbund aktivieren bzw. mit deinem icloud schlüssselbund synchronisieren
+der schlüsselbund auf den ios geräten ist der icloud schlüsselbund.  
+um den icloud schlüsselbund zu aktivieren, geh in die einstellungen und ganz oben auf deinen account.  
+öffne hier den punkt icloud und scrolle nach unten bis zu dem punkt passwörter & schlüsselbund. hier kannst du dann den schlüsselbund aktivieren bzw. mit deinem icloud schlüssselbund synchronisieren.
 
 ## android
 
