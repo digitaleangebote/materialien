@@ -17,7 +17,7 @@ jetzt kannst du ein neues browserfenster aufmachen.
 hierzu gibt es mehrere wege:  
 mit der maus (krishna- und chantal style bis neulich) unter dem menüpunkt  
 datei neues fenster auswählen  
-mit dem tastaturkürzel ⌘N (⌘n)   
+mit dem tastaturkürzel ⌘N (⌘n)(mac) oder strgN(windows) 
 oder unter dem firefox hamburger neues fenster auswählen
 
 
