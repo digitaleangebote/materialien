@@ -5,7 +5,7 @@ date: 2023-04-12
 category: Jekyll
 layout: post
 ---
-# werner erklärt uns, warum gut passwörter sehr wichtig sind
+werner erklärt uns, warum gute passwörter sehr wichtig sind
 
 # gute passwörter erstellen
 
@@ -47,9 +47,9 @@ faust als hinweis nehmen
 
 usw.
 
-auch wenn du das (oder die) unipasswort(wörter) schon geändert hast, versuche bitte wenigstens ein mal ein für dich gutes passwort zu generieren und gleichzeitig auch noch einen guten hinweis zu erstellen.
+auch wenn du das (oder die) unipasswort(wörter) schon geändert hast, versuche bitte wenigstens ein mal, ein für dich gutes passwort zu generieren und gleichzeitig auch noch einen guten hinweis zu erstellen.
 
-und gewöhne dir bitte an, in zukunft gute passwörter also mindestens 12 zeichen lang, bestehend aus groß- und kleinbuchstaben sowie sonderzeichen und zahlen (und die selbstverständlich in keinem wörterbuch zu finden sind)
+und gewöhne dir bitte an, in zukunft gute passwörter also mindestens 12 zeichen lang, bestehend aus groß- und kleinbuchstaben sowie sonderzeichen und zahlen (und die selbstverständlich in keinem wörterbuch zu finden sind) zu benutzen
 
 und weil bei datenlecks immer wieder nutzerkonten und passwörter in listen, die sich im internet verbreiten, gelangen, benutze bitte unbedingt für jedes nutzerkonto ein einzigartiges passwort!!!
 
