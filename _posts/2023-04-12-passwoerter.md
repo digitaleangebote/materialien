@@ -5,6 +5,8 @@ date: 2023-04-12
 category: Jekyll
 layout: post
 ---
+# werner erklärt uns, warum gut passwörter sehr wichtig sind
+
 # gute passwörter erstellen
 
 eine methode gute passwörter, die man sich auch merken kann, zu erstellen, ist, sich einen etwas längeren satz auszudenken.  
@@ -45,13 +47,17 @@ faust als hinweis nehmen
 
 usw.
 
-versuche, dir jetzt einen guten satz auszudenken und auch einen hinweis dazu zu notieren
+auch wenn du das (oder die) unipasswort(wörter) schon geändert hast, versuche bitte wenigstens ein mal ein für dich gutes passwort zu generieren und gleichzeitig auch noch einen guten hinweis zu erstellen.
 
 und gewöhne dir bitte an, in zukunft gute passwörter also mindestens 12 zeichen lang, bestehend aus groß- und kleinbuchstaben sowie sonderzeichen und zahlen (und die selbstverständlich in keinem wörterbuch zu finden sind)
 
 und weil bei datenlecks immer wieder nutzerkonten und passwörter in listen, die sich im internet verbreiten, gelangen, benutze bitte unbedingt für jedes nutzerkonto ein einzigartiges passwort!!!
 
 # passworteinstellungen im browser
+
+der firefox browser hat für uns unter seinem hamburgermenü oben rechts  
+links zu den einstellungen und zu den passwörtern  
+probiere diese einmal aus  
 
 ## macosx
 
@@ -134,7 +140,7 @@ besuche folgende seite
 
 https://www.udemy.com
 
-registriere dich mit einer erfundenden emailadresse und einem erfundenen passwort wie zb.
+registriere dich mit einer erfundenen emailadresse und einem erfundenen passwort wie zb.
 
 itzibitzi@icloud.com
 Ach,w=dmdPwisk?
@@ -148,7 +154,7 @@ selbstverständlich kannst du die zugangsdaten zu dieser erfundenen emailadresse
 
 # passwortmanager
 
-es gibt eine ganze menge passwortmanager. ich nutze einen sehr guten, aber etwas teuren. falls das mehrere teilnehmer interessiert könnte ich dazu mal etwas erzählen
+es gibt eine ganze menge passwortmanager. ich nutze einen sehr guten, aber etwas teuren. falls das mehrere teilnehmer interessiert, könnte ich dazu mal etwas erzählen
 
 
 
