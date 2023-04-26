@@ -136,21 +136,14 @@ um dies, auszuprobieren,
 
 klick in den einstellungen deines browsers den punkt Fragen, ob Zugangsdaten und Passwörter für Websites gespeichert werden sollen an. dann müsste dich dein browser bei der folgenden eingabe fragen, ob er das passwort speichern soll. du kannst dann auf ja klicken und danach nachsehen, wie und wo diese daten gespeichert sind
 
-besuche folgende seite
+wenn du dich das nächste mal auf irgendeiner webseite registrierst, überlege dir erst, mit welcher emailadresse du dort gespeichert werden möchtest und generiere dir danach ein richtig gutes passwort  
 
-https://www.udemy.com
-
-registriere dich mit einer erfundenen emailadresse und einem erfundenen passwort wie zb.
-
-itzibitzi@icloud.com
-Ach,w=dmdPwisk?
+sieh dir danach, so wie wir es jetzt gemacht haben, an, ob und wie dein browser, die daten gespeichert hat und ob und wie dein rechner, die daten in welchen schlüsselbund gespeichert hat
 
 
-jetzt kannst du entscheiden, ob du möchtest, dass deine passwörter im browser gespeichert werden. falls du dich dafür entscheidest, solltest du allerdings dafür sorgen, dass diese passwörter auch wirklich sicher sind. wenn du sie einfach unter dem hamburger findest und lesen kannst, dann kann das jeder .... hm?
+danach kannst du entscheiden, ob du möchtest, dass deine passwörter im browser gespeichert werden. falls du dich dafür entscheidest, solltest du allerdings dafür sorgen, dass diese passwörter auch wirklich sicher sind. wenn du sie einfach unter dem hamburger findest und lesen kannst, dann kann das jeder .... hm?
 
 falls du auf deinem system einen schlüsselbund aktiviert hast, kannst du auch noch nachsehen, ob die neuen zugangsdaten hier automatisch gespeichert wurden
-
-selbstverständlich kannst du die zugangsdaten zu dieser erfundenen emailadresse jetzt wieder löschen
 
 # passwortmanager
 
