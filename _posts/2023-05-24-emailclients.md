@@ -7,7 +7,7 @@ layout: post
 ---
 # warum mehrere emailadressen und -postfächer?
 
-wir alle "tanzen" im internet sozusagen „auf mehreren Hochzeiten“. wir sind "beruflich" und "privat" unterwegs. und genau dieser aspekt ist der grund dafür, auf mehrere emailadressen zu setzen: die unterschiedlichen arten der nutzung
+wir alle "tanzen" im internet sozusagen „auf mehreren hochzeiten“. wir sind "beruflich" und "privat" unterwegs. und genau dieser aspekt ist der grund dafür, auf mehrere emailadressen zu setzen: die unterschiedlichen arten der nutzung
 
 um zum beispiel mit der geschäftlichen emailadresse von zu viel spamnachrichten verschont zu bleiben, sollten wir diese nur für berufliche zwecke nutzen. eine weitere emailadressee eignet sich nur für den bereich shopping. und eine dritte kann beispielsweise dazu verwendet werden, sich in sozialen netzwerken anzumelden usw. usf.
 
@@ -20,9 +20,10 @@ wir können mithilfe von clients darauf zugreifen
 
 der zugriff auf die postfächer erfolgt entweder über eine mehr oder weniger nette weboberfläche im browser oder über einen beliebigen emailclient.  
 letztgenannte sprechen mit den postfächern über die etablierten standardverfahren  
-IMAP, POP3 und SMTP
+IMAP, POP3 und SMTP  
+den link zu der weboberfläche erfahren wir bei unserem emailanbieter  
 
-# es gibt 2 arten von emailpostfächer
+# es gibt 2 arten von emailpostfächern
 diese clients greifen auf protokolle zurück, um die emails anzuzeigen  
 je nach verwendetem protokoll ist die vorgehensweise eine andere  
 das netzwerkprotokoll IMAP öffnet die nachrichten direkt auf dem server,
@@ -60,7 +61,7 @@ das ist auch der grund, warum bei der verwendung von IMAP mehrere clients zur se
 mit POP3 ist der zugriff auf einen einzelnen client beschränkt, da immer alle erhaltenen mails auf den lokalen rechner heruntergeladen werden
 
 # mails mit smartphone und/oder tablet
-da wir unser mails mit smartphone oder tablet bzw. mit mehreren clients auf denselben mailbestand zugreifen, ist IMAP die bessere wahl. insbesondere, wenn wir unterwegs nur auf die mobile datenverbindung zurückgreifen können, ist es von vorteil, dass IMAP nur die gewünschten mails abruft – so können wir nachrichten mit großen inhalten stattdessen zu hause am rechner öffnen. da keine lokale version der mails heruntergeladen wird, benötigen wir jedoch in jedem fall eine bestehende Internetverbindung. über die funktion des emailabrufs hinaus ist es mit dem netzwerkprotokoll IMAP auch möglich, ordnerstrukturen anzulegen und zu verwalten, den bearbeitungsstatus der mails zu kennzeichnen und versendete nachrichten zu archivieren. durch diese zusätzlichen funktionen und die tatsache, dass die emails bis zur löschung auf dem server gespeichert sind, führt IMAP zu einer deutlich stärkeren auslastung des mailservers als POP3  
+da wir unsere mails mit smartphone und/oder tablet bzw. mit mehreren clients abrufen wollen, ist IMAP sicher die bessere wahl. insbesondere, wenn wir unterwegs nur auf die mobile datenverbindung zurückgreifen können, ist es von vorteil, dass IMAP nur die gewünschten mails abruft – so können wir nachrichten mit großen inhalten stattdessen zu hause am rechner öffnen. da keine lokale version der mails heruntergeladen wird, benötigen wir jedoch in jedem fall eine bestehende internetverbindung. über die funktion des emailabrufs hinaus ist es mit dem netzwerkprotokoll IMAP auch möglich, ordnerstrukturen anzulegen und zu verwalten, den bearbeitungsstatus der mails zu kennzeichnen und versendete nachrichten zu archivieren. durch diese zusätzlichen funktionen und die tatsache, dass die emails bis zur löschung auf dem server gespeichert sind, führt IMAP zu einer deutlich stärkeren auslastung des mailservers als POP3  
 
 
 # das SMTP protokoll
@@ -82,7 +83,7 @@ leider hat sich die uni aber dazu entschieden microsoft exchange zwischenzuschal
 
 ## die persönlichen daten    
 die emailadresse, die die uni für uns angelegt hat, finden wir in prisma  
-den benutzernamen auch
+den benutzernamen auch  
 das passwort haben wir selbst verändert und kennen es selbstverständlich auswendig ;-))  
 
 ## die allgemeinen daten (ohne microsoft)
