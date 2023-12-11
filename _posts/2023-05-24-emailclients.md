@@ -1,7 +1,7 @@
 ---
 title: email einrichten in emailclients
 author: chantal
-date: 2023-05-24
+date: 2023-12-12
 category: Jekyll
 layout: post
 ---
@@ -94,6 +94,10 @@ der (ausgangsserver) smtpserver heißt smtp.uni-bielefeld.de , sein port ist der
 
 bleibt die frage, wo du diese daten jetzt eingeben musst
 
+# der browser als emailclient
+
+das email postfach der uni kann über die url [https://webmail.uni-bielefeld.de](https://webmail.uni-bielefeld.de) mit den zugangsdaten emailadresse und passwort aufgerufen werden
+
 # emailclients
 
 ## macosx
@@ -118,6 +122,30 @@ der mailclient auf den ios geräten heißt mail
 
 bluemail scheint neu und sehr gut zu sein
 k-9 mail ist schon älter
+
+# emailclients einrichten
+
+## macos
+
+im mail programm unter accounts account hinzufügen klicken und anderen mailaccount auswählen. danach die erforderlichen daten eingeben
+
+## windows
+
+### mit outlook
+outlook öffnen. konto hinzufügen auswählen und mit den erforderlichen daten einrichten
+
+### mit thunderbird 
+thunderbird öffnen. unter datei und neu bestehende emailadresse einrichten und die erforderlichen daten eingeben 
+
+## linux
+
+## ios
+
+in den einstellungen unter accounts, account hinzufügen. mailaccount auswählen und andere anklicken. danach die erforderlichen daten eingeben
+
+## android
+
+in den einstellungen unter nutzer und konten konto hinzufügen e-mail auswählen.  danach die erforderlichen daten eingeben
 
 
 

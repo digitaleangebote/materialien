@@ -9,7 +9,7 @@ layout: post
 ## prismapasswort ändern
 
 das prismapasswort kannst du, falls du es einmal vergessen hast oder du ein anderes haben möchtest, unter  
-https://prisma.uni-bielefeld.de  
+[https://prisma.uni-bielefeld.de](https://prisma.uni-bielefeld.de)  
 
 mit dem knopf (link) passwort neu setzen,  
 ändern
