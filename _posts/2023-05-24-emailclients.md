@@ -1,7 +1,7 @@
 ---
 title: email einrichten in emailclients
 author: chantal
-date: 2023-12-12
+date: 2023-05-24
 category: Jekyll
 layout: post
 ---
