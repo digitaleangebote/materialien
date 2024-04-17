@@ -15,6 +15,10 @@ wir kommen auf diese seite immer von einem anderen dienst und kehren auch wieder
 
 # die angebote der uni die shibboleth nutzen
 
+- prisma das identity management portal der universität bielefeld [https://prisma.uni-bielefeld.de](https://prisma.uni-bielefeld.de)
+
+- campus die studienverwaltung [https://campus.uni-bielefeld.de](https://campus.uni-bielefeld.de)
+
 - das ausleihkonto der uni bibliothek [https://katalogplus.ub.uni-bielefeld.de/MyResearch/UserLogin](https://katalogplus.ub.uni-bielefeld.de/MyResearch/UserLogin)
 - der lernraumplus [https://lernraumplus.uni-bielefeld.de](https://lernraumplus.uni-bielefeld.de)
 - das ekvv [https://ekvv.uni-bielefeld.de/idp/login](https://ekvv.uni-bielefeld.de/idp/login)
@@ -22,3 +26,4 @@ das "neue" moodle" [https://moodle.uni-bielefeld.de/](https://moodle.uni-bielefe
 - die zoomplattform [https://uni-bielefeld.zoom.us/](https://uni-bielefeld.zoom.us/)
 - die panoptoplattform [https://uni-bielefeld.cloud.panopto.eu/](https://uni-bielefeld.cloud.panopto.eu/)
 - der matrixserver der uni bielefeld [https://element.matrix.uni-bielefeld.de/#/welcome](https://element.matrix.uni-bielefeld.de/#/welcome)
+- die linkedin lernplattform [https://www.linkedin.com/learning-login/](https://www.linkedin.com/learning-login/)
