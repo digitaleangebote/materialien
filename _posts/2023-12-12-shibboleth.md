@@ -1,7 +1,7 @@
 ---
 title: shibboleth
 author: chantal
-date: 2023-12-12
+date: 2024-17-04
 category: Jekyll
 layout: post
 ---
@@ -18,5 +18,7 @@ wir kommen auf diese seite immer von einem anderen dienst und kehren auch wieder
 - das ausleihkonto der uni bibliothek [https://katalogplus.ub.uni-bielefeld.de/MyResearch/UserLogin](https://katalogplus.ub.uni-bielefeld.de/MyResearch/UserLogin)
 - der lernraumplus [https://lernraumplus.uni-bielefeld.de](https://lernraumplus.uni-bielefeld.de)
 - das ekvv [https://ekvv.uni-bielefeld.de/idp/login](https://ekvv.uni-bielefeld.de/idp/login)
+das "neue" moodle" [https://moodle.uni-bielefeld.de/](https://moodle.uni-bielefeld.de/)
 - die zoomplattform [https://uni-bielefeld.zoom.us/](https://uni-bielefeld.zoom.us/)
 - die panoptoplattform [https://uni-bielefeld.cloud.panopto.eu/](https://uni-bielefeld.cloud.panopto.eu/)
+- der matrixserver der uni bielefeld [https://element.matrix.uni-bielefeld.de/#/welcome](https://element.matrix.uni-bielefeld.de/#/welcome)
