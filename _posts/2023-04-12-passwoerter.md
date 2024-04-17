@@ -77,7 +77,7 @@ du kannst auch unter dem hamburger dir anzeigen lassen, ob der browser passwört
 
 (laut meinem internet soll man mit der windowstaste und i die einstellungen eines programmes öffnen können. auf dem rechner der mir zur verfügung steht hat das nicht funktioniert)
 
-wie beim mac kanns du dir auch unter dem firefox hamburger anzeigen lassen, ob dein firefox passwörter gespeichert hat
+wie beim mac kannst du dir auch unter dem firefox hamburger anzeigen lassen, ob dein firefox passwörter gespeichert hat
 
 ## linux
 
